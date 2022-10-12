@@ -1,0 +1,15 @@
+C:\Users\joshu\source\repos\COMP586Television\obj\Debug\net6.0\COMP586Television.csproj.AssemblyReference.cache
+C:\Users\joshu\source\repos\COMP586Television\obj\Debug\net6.0\COMP586Television.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\source\repos\COMP586Television\obj\Debug\net6.0\COMP586Television.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\COMP586Television\obj\Debug\net6.0\COMP586Television.AssemblyInfo.cs
+C:\Users\joshu\source\repos\COMP586Television\obj\Debug\net6.0\COMP586Television.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\COMP586Television\bin\Debug\net6.0\COMP586Television.exe
+C:\Users\joshu\source\repos\COMP586Television\bin\Debug\net6.0\COMP586Television.deps.json
+C:\Users\joshu\source\repos\COMP586Television\bin\Debug\net6.0\COMP586Television.runtimeconfig.json
+C:\Users\joshu\source\repos\COMP586Television\bin\Debug\net6.0\COMP586Television.dll
+C:\Users\joshu\source\repos\COMP586Television\bin\Debug\net6.0\COMP586Television.pdb
+C:\Users\joshu\source\repos\COMP586Television\obj\Debug\net6.0\COMP586Television.dll
+C:\Users\joshu\source\repos\COMP586Television\obj\Debug\net6.0\refint\COMP586Television.dll
+C:\Users\joshu\source\repos\COMP586Television\obj\Debug\net6.0\COMP586Television.pdb
+C:\Users\joshu\source\repos\COMP586Television\obj\Debug\net6.0\COMP586Television.genruntimeconfig.cache
+C:\Users\joshu\source\repos\COMP586Television\obj\Debug\net6.0\ref\COMP586Television.dll
