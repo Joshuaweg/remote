@@ -8,9 +8,9 @@ namespace COMP586Television
 {
     public class Remote
     {
-        public delegate void remoteEventHandler(object source, EventArgs args);
-        public delegate void remoteChannelEventHandler(object source, EventArgs args, int chan);
-        public event remoteEventHandler remotePowered;
+        public delegate void remoteEventHandler(object source, EventArgs args); //deligate template for event handler
+        public delegate void remoteChannelEventHandler(object source, EventArgs args, int chan); //delegate template for event handler
+        public event remoteEventHandler remotePowered; //eventHandler
         public event remoteEventHandler remoteVolumeUp;
         public event remoteEventHandler remoteVolumeDown;
         public event remoteEventHandler remoteChannelUp;
@@ -22,7 +22,7 @@ namespace COMP586Television
         public event remoteEventHandler remoteOpenSmart;
 
 
-
+        //functions
         public void power() {
             onRemotePowered();
         
@@ -58,6 +58,7 @@ namespace COMP586Television
         {
             onRemoteOpenSettings();
         }
+        //eventhandlers
         protected virtual void onRemotePowered() {
             if (remotePowered != null) { 
                remotePowered(this, EventArgs.Empty);
